@@ -1,1 +1,8 @@
-W0F1dG9Qcm94eSAwLjAuMl0KfHxnb29nbGUuY29tCnx8Z2l0aHViLmNvbQp8fGlwLm1lCnx8c2lzMDAxLmNvbQp8fGlwMTM4LmNvbQp8fGdpdGh1YnVzZXJjb250ZW50LmNvbQp8fGJvbmFuemFmcmVuenkuY29t
+[AutoProxy 0.0.2]
+google.com
+github.com
+ip.me
+sis001.com
+ip138.com
+githubusercontent.com
+bonanzafrenzy.com
